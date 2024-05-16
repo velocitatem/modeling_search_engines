@@ -1,6 +1,8 @@
 # Modeling Search Engines with Linear Algebra
 
 ![Contributors](https://img.shields.io/badge/contributors-5-brightgreen.svg)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/velocitatem/modeling_search_engines/blob/main/engine.ipynb)
+
 
 Welcome to our project on **Modeling Search Engines Through Linear Algebra**! This repository contains the code and resources for understanding and implementing search engine algorithms, with a specific focus on Google's PageRank.
 
