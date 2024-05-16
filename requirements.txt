@@ -8,4 +8,4 @@ networkx
 numpy
 pandas
 requests
-sklearn
+scikit-learn
