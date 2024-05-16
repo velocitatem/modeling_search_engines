@@ -1,0 +1,11 @@
+bs4
+gravis
+joblib
+jupyter
+logging
+matplotlib
+networkx
+numpy
+pandas
+requests
+sklearn
