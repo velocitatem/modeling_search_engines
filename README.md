@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Installation
 Clone this repository:
 ```bash
-git clone [https://github.com/your-username/Modeling-Search-Engines.git](https://github.com/velocitatem/modeling_search_engines)
+git clone https://github.com/velocitatem/modeling_search_engines
 ```
 Navigate to the project directory:
 ```bash
